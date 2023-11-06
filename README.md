@@ -17,4 +17,4 @@ In the evaluation stage, I won't provide an evaluation of the analysis technique
 6. Deployment
 The deployment stage involves presenting the findings obtained.
 
-For a more detailed explanation of creating the database, you can read it in the Medium post I've created:
+For a more detailed explanation of creating the database, you can read it in the Medium post I've created: https://medium.com/@wandiramadan.stat/data-analysis-project-on-the-mint-classics-company-database-using-crisp-dm-methodology-with-sql-a8e9adcb3917
