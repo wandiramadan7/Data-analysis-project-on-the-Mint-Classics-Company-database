@@ -13,8 +13,8 @@ Data preparation is the stage where data is prepared for analysis in SQL Workben
 4. Modeling
 In this stage, we determine the mining techniques to be used based on the existing issues.
 5. Evaluation
-In the evaluation stage, I won't provide an evaluation of the analysis techniques I used.
+In the evaluation stage, I explain useful findings from the results of data analysis.
 6. Deployment
-The deployment stage involves presenting the findings obtained.
+The deployment stage involves presenting the findings obtained and provide recommendations or solutions that can be implemented in the future
 
 For a more detailed explanation of creating the database, you can read it in the Medium post I've created: https://medium.com/@wandiramadan.stat/data-analysis-project-on-the-mint-classics-company-database-using-crisp-dm-methodology-with-sql-a8e9adcb3917
